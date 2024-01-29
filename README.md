@@ -1,4 +1,4 @@
-### Hi there 👋
+**### Hi there 👋
 
 <!--
 **Difa1408/Difa1408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**# Self-Introduction
+
+## Name
+i'm [Difa Zahra]
+
+## Education
+a passionate[SMA SAINS AL-QUR'AN] 
+
+## some hobbies
+some hobbies is:
+- Reding a book
+- Listening to misic
+
+## contact
+- Email: [difazahra1408@gmao;.com]
+
+
+thank you!
